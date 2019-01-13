@@ -1,4 +1,4 @@
-# ashgren-vim
+# ashgren-gvim
 
 A muted, mid-tone color scheme for GVim.
 
