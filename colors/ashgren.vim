@@ -49,5 +49,6 @@ hi PmenuThumb                               guibg=#374436
 
 " plugin tweaks
 hi GitGutterChangeDefault   guifg=#ffdd62
+hi GitGutterAddDefault      guifg=#9bfaba
 
 " vim:sts=4:sw=4:et
