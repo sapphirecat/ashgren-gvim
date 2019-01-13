@@ -8,7 +8,8 @@ Coming soon.
 
 # History
 
-This is based on an ancient PuTTY theme, created to solve a couple of issues:
+This is based on an ancient PuTTY theme, created as an experiment around some
+usability issues with the default theme:
 
 1. Blue-on-black was both common, and difficult to read
 2. Vim used `background=light` but the background was black
