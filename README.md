@@ -2,9 +2,10 @@
 
 A muted, mid-tone color scheme for GVim.
 
-# Demo
+# Screenshots
 
-Coming soon.
+[![An example using PHP code](https://sapphirecat.github.io/images/ashgren/php.png "PHP Demo")](https://sapphirecat.github.io/images/ashgren/php.png)  
+[![An example of multiple windows and cursor line option](https://sapphirecat.github.io/images/ashgren/multi.png "Multi/Option Demo")](https://sapphirecat.github.io/images/ashgren/multi.png)
 
 # History
 
