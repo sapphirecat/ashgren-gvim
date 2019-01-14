@@ -14,7 +14,7 @@ hi Visual                                   guibg=#c9c9bd
 
 " syntax elements
 hi Comment      gui=NONE    guifg=#745879
-hi Constant     gui=NONE    guifg=#a00069
+hi Constant     gui=NONE    guifg=#981180
 hi Error        gui=NONE    guifg=#fafafa   guibg=#970019
 hi Identifier   gui=NONE    guifg=#00887b
 hi PreProc      gui=NONE    guifg=#0053aa
