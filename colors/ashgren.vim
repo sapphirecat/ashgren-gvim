@@ -19,7 +19,7 @@ hi Error        gui=NONE    guifg=#fafafa   guibg=#970019
 hi Identifier   gui=NONE    guifg=#00887b
 hi PreProc      gui=NONE    guifg=#0053aa
 hi Special      gui=NONE    guifg=#970019
-hi Statement    gui=bold    guifg=#917100
+hi Statement    gui=bold    guifg=#9c6f00
 hi Title        gui=bold    guifg=#ce398b
 hi Type         gui=NONE    guifg=#008f2b
 hi Underlined   gui=underline guifg=#0053aa
