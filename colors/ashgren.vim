@@ -16,6 +16,7 @@ hi Visual                                   guibg=#c9c9bd
 hi Comment      gui=NONE    guifg=#745879
 hi Constant     gui=NONE    guifg=#981180
 hi Error        gui=NONE    guifg=#fafafa   guibg=#970019
+hi Function     gui=NONE    guifg=#4f467a
 hi Identifier   gui=NONE    guifg=#00887b
 hi PreProc      gui=NONE    guifg=#0053aa
 hi Special      gui=NONE    guifg=#970019
