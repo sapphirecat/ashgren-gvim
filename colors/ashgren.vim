@@ -47,6 +47,13 @@ hi PmenuSel     gui=bold    guifg=#4a4a4a   guibg=#aff7ab
 hi PmenuSbar                                guibg=#cacaca
 hi PmenuThumb                               guibg=#374436
 
+hi Folded       gui=NONE    guifg=#163758   guibg=#d1d1bd
+
+hi DiffAdd                                  guibg=#cef4e6
+hi DiffDelete               guifg=#b5b5a9   guibg=#cedfda
+hi DiffChange                               guibg=#f4d3ae
+hi DiffText                                 guibg=#f8edf7
+
 " plugin tweaks
 hi GitGutterChangeDefault   guifg=#ffdd62
 hi GitGutterAddDefault      guifg=#9bfaba
