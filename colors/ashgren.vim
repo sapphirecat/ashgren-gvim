@@ -56,7 +56,7 @@ hi DiffChange                               guibg=#f4d3ae
 hi DiffText                                 guibg=#f8edf7
 
 " plugin tweaks
-hi GitGutterChangeDefault   guifg=#ffdd62
-hi GitGutterAddDefault      guifg=#9bfaba
+hi GitGutterChange          guifg=#ffdd62
+hi GitGutterAdd             guifg=#9bfaba
 
 " vim:sts=4:sw=4:et
