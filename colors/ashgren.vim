@@ -27,6 +27,7 @@ hi Underlined   gui=underline guifg=#0053aa
 
 " gvim interface
 hi LineNr       gui=NONE    guifg=#3f2b38   guibg=#abab9f
+hi SignColumn   gui=NONE    guifg=#3f2b38   guibg=#abab9f
 hi CursorLineNR gui=bold    guifg=#3f2b38   guibg=#97988c
 hi CursorLine                               guibg=#9f9f94
 hi CursorColumn                             guibg=#9f9f94
@@ -56,7 +57,9 @@ hi DiffChange                               guibg=#f4d3ae
 hi DiffText                                 guibg=#f8edf7
 
 " plugin tweaks
-hi GitGutterChange          guifg=#ffdd62
-hi GitGutterAdd             guifg=#9bfaba
+hi GitGutterChangeDelete    guifg=#ffdd62   guibg=#abab9f
+hi GitGutterChange          guifg=#ffdd62   guibg=#abab9f
+hi GitGutterAdd             guifg=#9bfaba   guibg=#abab9f
+hi GitGutterDelete          guifg=#f21d22   guibg=#abab9f
 
 " vim:sts=4:sw=4:et
