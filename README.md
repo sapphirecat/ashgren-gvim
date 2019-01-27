@@ -2,10 +2,16 @@
 
 A muted, mid-tone color scheme for GVim.
 
-# Screenshots
+## Screenshots
 
 [![An example using PHP code](https://sapphirecat.github.io/images/ashgren/php.png "PHP Demo")](https://sapphirecat.github.io/images/ashgren/php.png)  
 [![An example of multiple windows and cursor line option](https://sapphirecat.github.io/images/ashgren/multi.png "Multi/Option Demo")](https://sapphirecat.github.io/images/ashgren/multi.png)
+
+## VS Code
+
+The [Daobeam](https://vscodethemes.com/e/mike-flanigan.Daobeam)
+theme matches the ashgren idea fairly well.
+I'm not really interested in writing a VS Code theme myself.
 
 # History
 
