@@ -2,6 +2,14 @@
 
 A muted, mid-tone color scheme for GVim.
 
+## Abandonware warning
+
+I don’t have any intentions of doing any more work on this theme.
+It was largely an experiment, which is shared in the hope that it will be
+inspiring, but not much more.
+
+Feel free to fork.
+
 ## Screenshots
 
 [![An example using PHP code](https://sapphirecat.github.io/images/ashgren/php.png "PHP Demo")](https://sapphirecat.github.io/images/ashgren/php.png)  
